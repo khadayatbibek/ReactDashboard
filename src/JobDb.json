@@ -1,0 +1,63 @@
+{"Jobs":[
+    {
+      "id": 1,    
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "passive"
+    },
+    {
+      "id": 3,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "passive"
+    },
+    {
+      "id": 6,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "data_pool_name":"abc",   
+      "samples": "1snow@gmail.com",
+      "owner":"subbb",
+      "marker": "yxz",
+      "status": "active"
+    }
+ 
+  ]
+
+
+
+}

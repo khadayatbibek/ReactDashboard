@@ -1,0 +1,18 @@
+
+
+.userhome {
+  display: flex;
+
+  .userhomeContainer {
+    flex: 6; 
+
+    .userContainer {
+      -webkit-box-shadow: 0px 14px 10px 10px rgba(117, 23, 23, 0.47);
+      box-shadow: 0px 14px 10px 10px rgba(199, 181, 181, 0.47);
+      padding: 20px;
+      margin: 20px;
+
+    
+    }
+  }
+}

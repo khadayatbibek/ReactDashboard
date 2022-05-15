@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "A. Muller",
+      "email": "A@gmail.com",
+      "phone": "010993993",
+      "institution": "ABC",
+      "country": "Germany"
+    },
+    {
+      "id": 2,
+      "name": "Bibek khadayat",
+      "email": "B@gmail.com",
+      "phone": "010993993",
+      "institution": "xyz",
+      "country": "Nepal"
+    },
+    {
+      "name": "Bibek k",
+      "email": "bibek.khadayat@uni-weimar.de",
+      "phone": "+4915908486017",
+      "institution": "ham",
+      "country": "United States",
+      "id": 3
+    },
+    {
+      "name": "A Muller",
+      "email": "aA@123.com",
+      "phone": "12312313",
+      "institution": "barca",
+      "country": "germany",
+      "id": 4
+    },
+    {
+      "name": "Ale B",
+      "email": "B@1234",
+      "phone": "5643",
+      "institution": "bauhaus",
+      "country": "nepal",
+      "id": 5
+    },
+    {
+      "name": "Sab T",
+      "email": "s@jksdj.com",
+      "phone": "1232",
+      "institution": "tab",
+      "country": "spain",
+      "id": 6
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "passive"
+    },
+    {
+      "id": 3,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "passive"
+    },
+    {
+      "id": 6,
+      "data_pool_name": "abc",
+      "samples": "1snow@gmail.com",
+      "owner": "subbb",
+      "marker": "yxz",
+      "status": "pending"
+    },
+    {
+      "data_pool_name": "light",
+      "samples": "565",
+      "owner": "leip",
+      "marker": "plant",
+      "status": "active",
+      "id": 7
+    },
+    {
+      "data_pool_name": "light",
+      "samples": "565",
+      "owner": "sds",
+      "marker": "seeds",
+      "status": "active",
+      "id": 8
+    },
+    {
+      "data_pool_name": "trap IIV",
+      "samples": "65",
+      "owner": "user",
+      "marker": "food",
+      "status": "pending",
+      "id": 9
+    }
+  ]
+}
